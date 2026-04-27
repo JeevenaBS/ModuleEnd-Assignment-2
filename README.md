@@ -26,7 +26,7 @@ What I did:
 ● Used value_counts() and unique() to analyze categories 
 ● Used groupby() to analyze sales based on country, month, and product. 
 **Task 5 – Data Wrangling **
-Question: Aggregate using groupby, sort top customers/countries, restructure data. 
+Question: Aggregate using groupby, sort top customers/countries, restructure data.  
 What I did: 
 ● Aggregated sales data using groupby and agg functions. 
 ● Found top customers and countries by sorting TotalPrice  
